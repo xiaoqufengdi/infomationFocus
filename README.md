@@ -1,1 +1,1 @@
-# infomationFocus
+# infomation_focus
